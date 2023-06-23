@@ -4,7 +4,8 @@ The target of this simple project is to create and list orders and assets, somet
 
 ## 📝 Requirements
 
-Having Docker installed in your machine will be enough 😉.
+- [Docker](https://www.docker.com/get-started/)
+- [REST Extension in VSCode](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
 ## 💡 Features
 
@@ -43,6 +44,9 @@ npm install
 npx prisma generate dev
 npm run start:dev
 ```
+## 🔄 How to use this API?
+You'll have all entpoints [in this file](api.http).
+
 
 ## ⚙️ Made With:
 
